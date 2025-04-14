@@ -57,7 +57,7 @@ const SectionTwo = () => {
                     {[...Array(5)].map((_, i) => (
                       <img
                         key={i}
-                        src="/assets/noto-star.svg"
+                        src="assets/noto-star.svg"
                         alt="star"
                         style={{ opacity: i < item.rating ? 1 : 0.3 }}
                       />

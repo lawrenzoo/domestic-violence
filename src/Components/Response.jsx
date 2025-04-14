@@ -9,11 +9,11 @@ const Response = () =>{
                     <button className="case">Report a case</button>
                     <button className="call-us" >Call us now
                         
-                        <img src="../public/assets/call-purple.svg" alt="icon" /></button>
+                        <img src="assets/call-purple.svg" alt="icon" /></button>
                 </div>
             </div>
             <div className="response-image">
-                <img src="../public/assets/response-image.png" alt="response" />
+                <img src="assets/response-image.png" alt="response" />
             </div>
         </div>
         </>

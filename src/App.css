@@ -153,8 +153,9 @@ nav ul li .nav-link.active::after {
   /* border: 2px solid red; */
   height: 120dvh;
   margin-top: 6rem;
-    background: linear-gradient(111.5deg, rgba(130, 80, 160, 0.64) 0.16%, rgba(235, 226, 239, 0.8) 93.52%), 
-                url('/public/assets/young\ and\ depressed\ adult.png');
+  background: linear-gradient(111.5deg, rgba(130, 80, 160, 0.64) 0.16%, rgba(235, 226, 239, 0.8) 93.52%), 
+  url("/domestic-violence/assets/young and depressed adult.png");
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
