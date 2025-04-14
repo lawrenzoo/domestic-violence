@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-nav">
           <div className="report">
             <div className="logo">
-              <img src="assets/Dv-white-logo.svg" alt="logo" />
+              <img src="/domestic-violence/assets/Dv-white-logo.svg" alt="logo" />
             </div>
             <p>We truly believe that “addressing domestic violence requires a comprehensive approach</p>
           </div>
@@ -43,14 +43,14 @@ const Footer = () => {
             <h2>Follow Us</h2>
             <div className="follow-links">
               <ul>
-                <li><img src="assets/Linkedin.svg" alt="linkedin" /></li>
-                <li><img src="assets/facebook.svg" alt="facebook" /></li>
-                <li><img src="assets/x-twitter.svg" alt="twitter" /></li>
-                <li><img src="assets/instagram.svg" alt="instagram" /></li>
+                <li><img src="/domestic-violence/assets/Linkedin.svg" alt="linkedin" /></li>
+                <li><img src="/domestic-violence/assets/facebook.svg" alt="facebook" /></li>
+                <li><img src="/domestic-violence/assets/x-twitter.svg" alt="twitter" /></li>
+                <li><img src="/domestic-violence/assets/instagram.svg" alt="instagram" /></li>
               </ul>
               <div className="back-top" onClick={handleBackToTop} style={{ cursor: 'pointer' }}>
                 <p>Back to Top</p>
-                <img src="assets/arrow-up.svg" alt="arrow" />
+                <img src="/domestic-violence/assets/arrow-up.svg" alt="arrow" />
               </div>
             </div>
           </div>

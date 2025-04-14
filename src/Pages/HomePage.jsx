@@ -14,7 +14,7 @@ const HomePage = () => {
         <h1>Are You Facing Any Kind of Domestic Violence?</h1>
         <p>Are you facing any kind of domestic violence? You don’t have to go throught it alone. Our dedicated team is available  24/7 to provide you with the support, resources and guidance you need  stay safe. </p>
         <div className="violence-call">
-          <button className="call-us">Call us Now <img src="assets/majesticons_phone-line.svg" alt="call" /></button>
+          <button className="call-us">Call us Now <img src="/domestic-violence/assets/majesticons_phone-line.svg" alt="call" /></button>
           <button className="learn-more">Learn More</button>
         </div>
       </div>

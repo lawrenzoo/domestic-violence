@@ -13,7 +13,7 @@ const NavBar = () => {
       <nav>
         <div className="logo">
         <NavLink to="/" end className="nav-link">
-              <img src="assets/Dv-logo.svg" alt="logo" />
+              <img src="/domestic-violence/assets/Dv-logo.svg" alt="logo" />
             </NavLink>
         </div>
         <div className={`nav-optimize ${menuOpen ? "show" : "unshow"}`}>
@@ -51,11 +51,11 @@ const NavBar = () => {
         </div>
         <div className="burger-times" onClick={toggleMenu}>
   {!menuOpen ? (
-    <img className="burger" src="assets/burger-menu-left-svgrepo-com.svg" alt="burger" />
+    <img className="burger" src="/domestic-violence/assets/burger-menu-left-svgrepo-com.svg" alt="burger" />
   ) : (
     <img
       className="times rotate"
-      src="assets/times-svgrepo-com.svg"
+      src="/domestic-violence/assets/times-svgrepo-com.svg"
       alt="times"
     />
   )}
